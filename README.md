@@ -12,10 +12,10 @@ Frontend Web Developer
   <img src="https://img.shields.io/badge/typescript-%23f2f2f2?style=for-the-badge&logo=typescript&logoColor=%233178c6">
 
 - ⚡ Projects I've contributed to <br>
-  - `Articket`: Transform your photos into masterpieces in seconds with personality-matched artist styles! [github](https://github.com/yezzero/Articket.git)
-  - `Waggle Waggle`: A safety and communication platform for large-scale events in Seoul. [github](https://github.com/yezzero/wagglewaggle.git)
-  - `LingoConnect`: A language learning service tailored for individuals with intellectual disabilities. [github](https://github.com/yezzero/LingoConnect.git)
   - `Quipu-Dev MainPage`: The main homepage of the Quipu club, featuring club introduction, member recruitment, and project showcases. [homepage](quipu.uos.ac.kr)
+  - `LingoConnect`: A language learning service tailored for individuals with intellectual disabilities. [github](https://github.com/yezzero/LingoConnect.git)
+  - `Waggle Waggle`: A safety and communication platform for large-scale events in Seoul. [github](https://github.com/yezzero/wagglewaggle.git)
+  - `Articket`: Transform your photos into masterpieces in seconds with personality-matched artist styles! [github](https://github.com/yezzero/Articket.git)
 
 - 📫 How to reach me <br>
   [Instagram](https://www.instagram.com/ye._.zero/) | yeyonggim06@gmail.com
